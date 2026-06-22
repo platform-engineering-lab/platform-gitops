@@ -1,1 +1,1 @@
-# Platform GitOps Repository
+# Platform GitOps
